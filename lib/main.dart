@@ -72,6 +72,7 @@ import 'repositories/chat_repository.dart';
 import 'screens/special/debate/vote/bloc/vote_bloc.dart';
 import 'repositories/vote_repository.dart';
 
+////
 void main() async {
   // Flutter 바인딩 초기화 (반드시 필요)
   WidgetsFlutterBinding.ensureInitialized();
